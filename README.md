@@ -5,6 +5,11 @@
 This is an adptation of the main project [drupal-composer/drupal-project](https://github.com/drupal-composer/drupal-project).
 The goal is to install Drupal on the root folder of the project.
 
+Install:
+```
+composer create-project renanmfd/drupal-project:8.x-dev some-dir --stability dev --no-interaction
+```
+
 # Original
  
 This project template should provide a kickstart for managing your site
